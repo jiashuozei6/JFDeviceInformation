@@ -2,28 +2,26 @@
 
 iOS设备信息类，全局基类、拓展类
 
-[![CI Status](https://img.shields.io/travis/chenjiafu/JFDeviceInformation.svg?style=flat)](https://travis-ci.org/chenjiafu/JFDeviceInformation)
-[![Version](https://img.shields.io/cocoapods/v/JFDeviceInformation.svg?style=flat)](https://cocoapods.org/pods/JFDeviceInformation)
-[![License](https://img.shields.io/cocoapods/l/JFDeviceInformation.svg?style=flat)](https://cocoapods.org/pods/JFDeviceInformation)
-[![Platform](https://img.shields.io/cocoapods/p/JFDeviceInformation.svg?style=flat)](https://cocoapods.org/pods/JFDeviceInformation)
+## Example(示例)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+运行案例工程，使用Git克隆响应地址，需先在Example文件夹运行`pod install`命令
 
 ## Requirements
 
-## Installation
+## Installation(安装)
 
-JFDeviceInformation is available through [CocoaPods](https://cocoapods.org). To install it, simply add the following line to your Podfile:
+JFDeviceInformation 可以通过 [CocoaPods](https://cocoapods.org)安装。在你的Podfile文件内，添加如下代码：
 
 ```ruby
+
+source "https://github.com/jiashuozei6/PrivateSpecs.git"
+
 pod 'JFDeviceInformation'
 ```
 
-## Author
+## Author(作者)
 
-chenjiafu, elvis.j.chan@gmail.com
+jiashuo, jiashuozei6@icloud.com
 
 ## License
 
