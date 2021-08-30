@@ -1,0 +1,6 @@
+module Pods_JFDeviceInformation_Tests {
+  umbrella header "Pods-JFDeviceInformation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

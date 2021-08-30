@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JFDeviceInformation (0.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JFDeviceInformation (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JFDeviceInformation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JFDeviceInformation: 2ba5445325eca27d4dbe830fcae543c99452ca97
+
+PODFILE CHECKSUM: 19fd02dc24bdc0ece93409ee419c8c32a38e1b6a
+
+COCOAPODS: 1.10.1

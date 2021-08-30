@@ -1,0 +1,6 @@
+framework module JFDeviceInformation {
+  umbrella header "JFDeviceInformation.h"
+
+  export *
+  module * { export * }
+}

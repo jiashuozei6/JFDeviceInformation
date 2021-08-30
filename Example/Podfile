@@ -1,0 +1,14 @@
+
+platform :ios, '9.0'
+
+source 'https://github.com/jiashuozei6/PrivateSpecs.git'
+
+target 'JFDeviceInformation_Example' do
+  pod 'JFDeviceInformation', :path => '../'
+
+  target 'JFDeviceInformation_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
