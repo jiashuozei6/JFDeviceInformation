@@ -13,7 +13,6 @@ iOS设备信息类，全局基类、拓展类
 JFDeviceInformation 可以通过 [CocoaPods](https://cocoapods.org)安装。在你的Podfile文件内，添加如下代码：
 
 ```ruby
-
 source "https://github.com/jiashuozei6/PrivateSpecs.git"
 
 pod 'JFDeviceInformation'
