@@ -19,3 +19,7 @@ FOUNDATION_EXPORT const unsigned char JFDeviceInformationVersionString[];
 #import <JFDeviceInformation/JFKeychain.h>
 #import <JFDeviceInformation/JFLog.h>
 #import <JFDeviceInformation/DeviceInfo.h>
+#import <JFDeviceInformation/EscapeCheckTool.h>
+
+#import <JFDeviceInformation/NSString+JSON.h>
+#import <JFDeviceInformation/UIImage+Modify.h>

@@ -1,0 +1,34 @@
+/* 
+ JFDeviceInformation.strings
+ JFDeviceInformation
+ 
+ Created by Elvis on 2021/3/18.
+ 
+ */
+
+"OK" = "好的";
+"Error" = "錯誤"
+"ErrorUnknown" = "未知錯誤";
+
+"Success" = "成功";
+"Failure" = "失敗";
+
+"Back" = "返回";
+"Cancel" = "取消";
+"Confirm" = "確認";
+
+"Quit" = "退出";
+"Delete" = "刪除";
+
+"Prompt" = "提示";
+
+"ParametersCannotBeNull" = "參數不能為空";
+"ParametersFormatError" = "入參格式錯誤";
+
+"NoAccess" = "無權限訪問";
+"NoPhotosAccess" = "請到設置 -> 隱私內開啟本程序相冊訪問權限";
+"NoCameraAccess" = "請到設置 -> 隱私內開啟本程序相機訪問權限";
+"NoLocationAccess" = "請到設置 -> 隱私內開啟本程序定位訪問權限";
+"NoContactsAccess" = "請到設置 -> 隱私內開啟本程序通訊錄訪問權限";
+"NoCalendarAccess" = "請到設置 -> 隱私內開啟本程序日曆訪問權限";
+"NoAudioAccess" = "請到設置 -> 隱私內開啟本程序錄音訪問權限";

@@ -1,0 +1,34 @@
+/* 
+ JFDeviceInformation.strings
+ JFDeviceInformation
+ 
+ Created by Elvis on 2021/3/18.
+ 
+ */
+
+"OK" = "OK";
+"Error" = "Error"
+"ErrorUnknown" = "Error Unknow";
+
+"Success" = "Success";
+"Failure" = "Failure";
+
+"Back" = "Back";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+
+"Quit" = "Quit";
+"Delete" = "Delete";
+
+"Prompt" = "Prompt";
+
+"ParametersCannotBeNull" = "Parameters cannot be null";
+"ParametersFormatError" = "Parameters format error";
+
+"NoAccess" = "No Access";
+"NoPhotosAccess" = "Please go to Settings -> Privacy to open Photos Permission of This Program.";
+"NoCameraAccess" = "Please go to Settings -> Privacy to open Camera Permission of This Program.";
+"NoLocationAccess" = "Please go to Settings -> Privacy to open Location Permission of This Program.";
+"NoContactsAccess" = "Please go to Settings -> Privacy to open Contacts Permission of This Program.";
+"NoCalendarAccess" = "Please go to Settings -> Privacy to open Calendar Permission of This Program.";
+"NoAudioAccess" = "Please go to Settings -> Privacy to open Audio Permission of This Program.";
