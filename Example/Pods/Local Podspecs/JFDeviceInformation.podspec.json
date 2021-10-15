@@ -3,16 +3,16 @@
   "version": "0.0.1",
   "summary": "JFDeviceInformation可以获取设备信息，设备级全局变量、拓展等...",
   "description": "获取用户设备信息，日志打印、钥匙串访问、设备级全局宏、全局变量、全局函数、拓展...",
-  "homepage": "https://github.com/chenjiafu/JFDeviceInformation",
+  "homepage": "https://github.com/jiashuozei6/JFDeviceInformation",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "chenjiafu": "jiashuozei6@icloud.com"
+    "jiashuozei6": "jiashuozei6@icloud.com"
   },
   "source": {
-    "git": "https://github.com/chenjiafu/JFDeviceInformation.git",
+    "git": "git@github.com:jiashuozei6/JFDeviceInformation.git",
     "tag": "0.0.1"
   },
   "platforms": {

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JFDeviceInformation'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'JFDeviceInformation可以获取设备信息，设备级全局变量、拓展等...'
 
 # This description is used to generate tags and improve search results.
